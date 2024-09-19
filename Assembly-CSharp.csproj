@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Boid.cs" />
     <Compile Include="Assets\Scripts\BoidHelper.cs" />
+    <Compile Include="Assets\Scripts\DroneController.cs" />
     <Compile Include="Assets\Scripts\Target.cs" />
     <Compile Include="Assets\Scripts\HeartOfTheSwarm.cs" />
   </ItemGroup>

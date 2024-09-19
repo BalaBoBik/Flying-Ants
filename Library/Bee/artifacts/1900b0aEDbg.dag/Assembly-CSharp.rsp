@@ -354,6 +354,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Boid.cs"
 "Assets/Scripts/BoidHelper.cs"
+"Assets/Scripts/DroneController.cs"
 "Assets/Scripts/HeartOfTheSwarm.cs"
 "Assets/Scripts/Target.cs"
 -langversion:9.0
