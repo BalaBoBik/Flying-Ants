@@ -77,8 +77,8 @@ MonoBehaviour:
   target: {fileID: 0}
   minSpeed: 0
   maxSpeed: 10
-  perceptionRadius: 6
-  avoidanceRadius: 5
+  perceptionRadius: 15
+  avoidanceRadius: 8
   maxSteerForce: 3
   alignWeight: 2
   cohesionWeight: 1
